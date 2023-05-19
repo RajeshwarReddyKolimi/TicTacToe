@@ -17,19 +17,24 @@ This is a simple Tic Tac Toe game built using React. It allows two players to ta
 # How to play
 
 1. The game starts with player X. He can place X in any of the empty spaces.
+
 2. Then it will be player O turn. He can place O in any of the empty spaces.
+
 3. The two players will continue to play their turns until there will be no spaces left.
+
 4. There will be two options below the board at any point of game : Restart and Undo.
+
 5. The restart will start the game from beginning.
+
 6. The Undo will move one step back. The players can continue from the previous turn.
 
-# Skills used
+# Skills Used
 
 The code for implementation of the game is written in React and the styling is done using CSS.
 
 React: 
 
-The topics of React that are used in this project are Components, props, functions, arrays, loops, conditional rendering, useState hook, Event Handling, etc.
+The topics of React that are used in this project are JSX, Components, props, functions, arrays, loops, conditional rendering, useState hook, Event Handling, etc.
 
 CSS: 
 
